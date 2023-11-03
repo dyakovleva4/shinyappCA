@@ -1,4 +1,6 @@
+<h2 align="center">
 # Car Accidents Analysis 
+</h2> 
 
 <h2 align="center">
 Hi there! 👋
