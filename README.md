@@ -19,6 +19,6 @@ https://dyakovleva.shinyapps.io/Assignment_10_Daria_Mitu/
 
 
 
-
+### Preview:
 <img width="1390" alt="Screenshot 2023-11-02 at 21 24 44" src="https://github.com/dyakovleva4/shinyappCA/assets/149738389/6623ebb8-f861-4a3b-aacc-6247e8ecd03f">
 
