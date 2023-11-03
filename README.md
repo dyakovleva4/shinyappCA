@@ -5,12 +5,13 @@ Car Accidents Analysis
 <h2 align="center">
 Hi there! 👋
 </h2> 
-My name is Daria and below is the Shiny App that I have done for my Exploratory and Cloud-based Data Analysis class. 
-
+My name is Daria and below is the Shiny App that I have done for my Exploratory and Cloud-based Data Analysis course. 
 
 ### Shiny App Overview:
 
-In the following Shipy App, I have analyzed the Accident Data from the NHTSA (National Highway Traffic Safety Administration). 
+In the following Shipy App, I have analyzed the Accident dataset from the [NHTSA]([https://pages.github.com/](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars)) (National Highway Traffic Safety Administration). 
+
+In my analysis, I have focused on the fatalities based on state and month, as well as the total number of fatalities per day by month and fatality rate by days of the week in different months. 
 
 
 ### Link to my Shiny App:
