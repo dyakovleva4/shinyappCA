@@ -1,5 +1,5 @@
-Car Accidents Analysis 
-</p>
+# Car Accidents Analysis 
+
 <h2 align="center">
 Hi there! 👋
 </h2> 
