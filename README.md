@@ -5,11 +5,11 @@ Car Accidents Analysis
 <h2 align="center">
 Hi there! 👋
 </h2> 
-My name is Daria and below is the information and link to the Shiny App that I have done for my Exploratory and Cloud-based Data Analysis course. 
+My name is Daria and below is the information and the link to the Shiny App that I have done for my Exploratory and Cloud-based Data Analysis course. 
 
 ### Shiny App Overview:
 
-In my project, I have analyzed the Accident dataset from the [NHTSA](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) (National Highway Traffic Safety Administration). For my analysis, I chose to do the number of fatalities based on state and month, as well as the total number of fatalities per day by month and fatality rate by days of the week in different months. I also looked at the number of accidents in different weather and added a widget to sort my bar plot by month(s) and state(s).
+In my project, I have analyzed the Accident dataset from the [NHTSA](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) (National Highway Traffic Safety Administration). For my analysis, I chose to do the number of fatalities based on state and month, as well as the total number of fatalities per day by month and fatality rate by days of the week in different months. I also looked at the number of accidents in different weather and added widgets to sort my bar plot by month(s) and state(s).
 
 
 ### Link to my Shiny App:
